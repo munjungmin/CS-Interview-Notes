@@ -11,3 +11,5 @@ CS 면접 대비를 위해 정리한 **CS 질문 & 답변 노트**로 관련 개
   - [CPU](./Computer%20Architecture/cpu.md)
   - [입출력장치](./Computer%20Architecture/입출력장치.md)
 
+- 🗄️ Database
+  - [데이터베이스 개요](./Database/데이터베이스개요.md)
